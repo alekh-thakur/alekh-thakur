@@ -156,16 +156,14 @@ Responsive React portfolio.
 # Current Focus
 
 ```yaml
-Learning:
-  - Node.js
-
 Building:
-  - Asset Management App 
-  - Portfolio
+  - DevFuse
+  - CareerTrack
 
 OpenTo:
-  - Frontend Internship
+  - Frontend Developer
   - SDE Internship
+  - Full Stack Developer
 ```
 
 ---
